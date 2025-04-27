@@ -23,3 +23,6 @@ You can view the live demo of the app at [React To-Do List App](https://samuelso
 
 ## Example Screenshot
 ![React To-Do List App Screenshot](https://github.com/user-attachments/assets/683e2787-ee38-4955-a64b-99e46c9e0d16)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/React-ToDo-List-App/blob/main/LICENSE) file for details.
